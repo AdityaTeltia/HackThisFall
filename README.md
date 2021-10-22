@@ -2,8 +2,10 @@
 
 This is the project for Hack this fall.
 
-Team members:
-Aditya Teltia
-Aditya Kumar 
-Amandeep Singh
-Ansh Anurag
+## Team members:
+<ol>
+  <li>Aditya Teltia</li>
+  <li>Aditya Kumar</li>
+  <li>Amandeep Singh</li>
+  <li>Ansh Anurag</li>
+</ol>
