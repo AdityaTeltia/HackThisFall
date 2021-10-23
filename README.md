@@ -31,12 +31,8 @@
 <div align="center">
   <a href="https://github.com/github_username/HackThisFall">
     <img src="images/logo.png" alt="Logo" width="250" >
-  </a>
-<p align="center">
-  <img alt="MIT License" src="https://img.shields.io/github/license/AdityaTeltia/HackThisFall">
-</p>
-  
-<h3 align="center">project_title</h3>
+  </a>  
+<h3 align="center">KissanKunj</h3>
 
   <p align="center">
     project_description
@@ -59,9 +55,11 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">Developing a decentralised marketplace service for the crop market using blockchain embedded in a multifunctional app wherein, we can track the crops as well.
+</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">Built With</a>
+        </li>
       </ul>
     </li>
     <li>
@@ -85,9 +83,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
+### Allowing transaction in a Digital Currency. 
+In our solution we are using Ethereum for transaction in the given project. The farmers can create an NFT of the contract as a proof of transaction and consumers can purchase those tokens.
+### Blockchain Based Tracking
+As we are using blockchain, it is easy to track the product and its ownership. This leads to eradication of hoarding of crops, helps us calculate the optimum delivery time and also works as a feedback mechanism in case of bad quality. 
+### Other Functionalities
+We provide other assistance to the farmer in multiple ways which includes Agro-News, crop disease disease prediction and yield quality predictor.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -95,14 +96,11 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [Next.js](https://nextjs.org/)
+* [Tensorflow](https://tensorflow.org/)
 * [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [Solidity](https://docs.soliditylang.org/en/v0.8.9/)
+* [Hardhat](https://hardhat.org/)
+* [Flask](https://flask.palletsprojects.com/en/2.0.x/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
