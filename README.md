@@ -254,3 +254,9 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+
+
+## Awesome contributors :star_struck:
+<a href="https://github.com/AdityaTeltia/HackThisFall//graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=chandrikadeb7/Hacktoberfest_2021&max=300" />
+</a>
