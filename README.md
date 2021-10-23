@@ -7,6 +7,11 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
+<div align="center">
+  <a href="https://github.com/github_username/HackThisFall">
+    <img src="images/Department%20or%20Agency%20Name.png"  width="250" >
+  </a>  
+</div>
 
 
 <!-- PROJECT SHIELDS -->
