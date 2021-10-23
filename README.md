@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://github.com/github_username/HackThisFall">
-    <img src="images/Department%20or%20Agency%20Name.png"  width="250" >
+    <img src="images/Department%20or%20Agency%20Name.png"  width="1000" >
   </a>  
 </div>
 
