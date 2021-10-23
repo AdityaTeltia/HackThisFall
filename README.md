@@ -256,7 +256,7 @@ npx hardhat help
 ```
 
 
-## Awesome contributors :star_struck:
+## Contributors :star_struck:
 <a href="https://github.com/AdityaTeltia/HackThisFall/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=AdityaTeltia/HackThisFall&max=300" />
 </a>
