@@ -32,7 +32,10 @@
   <a href="https://github.com/github_username/HackThisFall">
     <img src="images/logo.png" alt="Logo" width="250" >
   </a>
-
+<p align="center">
+  <img alt="MIT License" src="https://img.shields.io/github/license/AdityaTeltia/HackThisFall">
+</p>
+  
 <h3 align="center">project_title</h3>
 
   <p align="center">
