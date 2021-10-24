@@ -35,13 +35,13 @@ function Marketplace({ Component, pageProps }) {
               Creator Dashboard
             </a>
           </Link>
-          <Link href="/predict">
+          <a href="https://radiant-mesa-29894.herokuapp.com/" target = "_blank">
             <a className="mr-6 text-gray-500" style = {(active == 'predict') ? activeStyles : {}} onClick={handleClick('predict')}>
               Predict Quality of Crops
             </a>
-          </Link>
+          </a>
           <Link href="/news">
-            <a className="mr-6 text-gray-500">
+            <a className="mr-6 text-gray-500" style = {{cursor:"pointer"}}>
               Agro News
             </a>
           </Link>
