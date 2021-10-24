@@ -138,11 +138,18 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+4. Run npx hardhat node
+   ```sh
+   npx hardhat node
    ```
-
+5. In a new terminal run this command
+   ```sh
+   npx hardhat run scripts/deploy.js --network localhost
+   ```
+6. After that launch the next app using the below command
+   ```sh 
+   npm run dev
+   ```
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
