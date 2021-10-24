@@ -1,5 +1,6 @@
 import '../styles/globals.css'
 import Link from 'next/link'
+import Sawo from "sawo"
 
 function Marketplace({ Component, pageProps }) {
   const activeStyles = {
@@ -35,21 +36,26 @@ function Marketplace({ Component, pageProps }) {
               Creator Dashboard
             </a>
           </Link>
+          <Link href="/news">
+            <a className="mr-6 text-gray-500" style = {{cursor:"pointer"}}>
+              Agro News
+            </a>
+          </Link>
+          <Link href="/login">
+            <a className="mr-6 text-gray-500" style = {{cursor:"pointer"}}>
+              Login
+            </a>
+          </Link>
           <a href="https://radiant-mesa-29894.herokuapp.com/" target = "_blank">
             <a className="mr-6 text-gray-500" style = {(active == 'predict') ? activeStyles : {}} onClick={handleClick('predict')}>
               Predict Quality of Crops
             </a>
           </a>
           <a href="https://rice-disease.herokuapp.com/" target = "_blank">
-            <a className="mr-6 text-gray-500" style = {(active == 'predict') ? activeStyles : {}} onClick={handleClick('predict')}>
+            <a className="mr-6 text-gray-500">
               Disease Prediction
             </a>
           </a>
-          <Link href="/news">
-            <a className="mr-6 text-gray-500" style = {{cursor:"pointer"}}>
-              Agro News
-            </a>
-          </Link>
         </div>
       </nav>
       <Component {...pageProps} />
