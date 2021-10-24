@@ -46,16 +46,16 @@ function Marketplace({ Component, pageProps }) {
               Login
             </a>
           </Link>
-          <a href="https://radiant-mesa-29894.herokuapp.com/" target = "_blank">
+          <Link href="https://radiant-mesa-29894.herokuapp.com/" target = "_blank">
             <a className="mr-6 text-gray-500" style = {(active == 'predict') ? activeStyles : {}} onClick={handleClick('predict')}>
               Predict Quality of Crops
             </a>
-          </a>
-          <a href="https://rice-disease.herokuapp.com/" target = "_blank">
+          </Link>
+          <Link href="https://rice-disease.herokuapp.com/" target = "_blank">
             <a className="mr-6 text-gray-500">
               Disease Prediction
             </a>
-          </a>
+          </Link>
         </div>
       </nav>
       <Component {...pageProps} />
